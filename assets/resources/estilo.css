@@ -1,0 +1,113 @@
+.mat-toolbar.mat-primary {
+    background: #b4dcc3 !important;
+    border: 1px solid #8a8787 !important;
+}
+
+.mat-list-base .mat-list-item .mat-list-item-content, .mat-list-base .mat-list-option .mat-list-item-content {
+    border: 1px solid lightgrey !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+th.mat-header-cell {
+    font-family: Arial !important;
+    font-weight: bold  !important;
+    font-size: 14px  !important;
+}
+
+td.mat-cell {
+    font-family: Arial !important;
+    font-size: 13px !important;
+}
+
+.mat-form-field[_ngcontent-c9] {
+    font-size: 14px;
+    width: 100%;
+    font-family: Arial !important;
+}
+
+td.mat-footer-row, td.mat-row {
+    min-height: 10px !important;
+}
+
+mat-footer-row, mat-header-row, mat-row {
+    border-bottom-width: 0px !important;
+    border-style: none !important;
+    min-height: 10px !important;
+}
+
+.mat-form-field {
+    width: 100% !important;
+}
+
+.mat-toolbar-row {
+    height: 10px !important;
+}
+
+.mat-paginator-page-size-label {
+    display: none !important;
+}
+
+.mat-raised-button[disabled]:not([class*=mat-elevation-z]) {
+    background: lightgray!important;
+}
+
+.nenhum-registro {
+    text-align: center;
+    font-size: 19px;
+    margin-top: 1%;
+}
+
+.cadastrar-nova {
+    background: white !important;
+    color: black !important;
+    border: 1px solid black !important;
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+}
+
+.mat-button, .mat-flat-button, .mat-icon-button, .mat-stroked-button {
+    min-width: 0 !important;
+    padding: 0 !important;
+    padding-left: 11px !important;
+}
+
+input.mat-input-element {
+    font-family: Arial !important;
+    font-size: 14px !important;
+    color: black !important;
+}
+
+.botao-adicionar {
+    height: 35px !important;
+    padding: 0 !important;
+    margin-top: 5% !important;
+    background: #131377 !important;
+}
+
+.botao-secundario {
+    background: #146314 !important;
+}
+
+.ajustes-tabela {
+    padding: 0 !important;
+}
+
+input[type="file"] {
+    display: none !important;
+}
+
+.file-custom {
+    text-align: center;
+    width: 100% !important;
+    background: #008000!important;
+    height: 54%;
+    color: #ffffff !important;
+    margin-top: 5%;
+    box-shadow: 1px 1px black;
+    cursor: pointer;
+}
+
+.mat-raised-button {
+    background: #131377 !important;
+}

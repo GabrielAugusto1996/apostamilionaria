@@ -1,0 +1,33 @@
+:root {
+    --color-blue: #131377;
+    --color-green: #38693e;
+  }
+
+
+.mat-fab.mat-primary, .mat-flat-button.mat-primary, .mat-mini-fab.mat-primary, .mat-raised-button.mat-primary {
+    background-color: var(--color-blue) !important;
+    border-radius: 30px;
+}
+
+.mat-icon-button .mat-icon, .mat-icon-button i {
+    line-height: 24px;
+    color: var(--color-blue) !important;
+}
+
+.custom-toolbar {
+    padding: 0;
+    height: 44px;
+    background: transparent !important;
+    font-family: Arial;
+    color: var(--color-blue) !important;
+}
+
+.material-icons {
+    color: var(--color-blue) !important;
+}
+
+.w-100 {
+    width: 100%;
+    font-family: Arial;
+    color: #fff !important;
+}
