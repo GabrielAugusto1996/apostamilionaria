@@ -583,9 +583,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@ngx-translate/http-loader
-MIT
-
 @angular/router
 MIT
 
@@ -674,9 +671,6 @@ MIT
 @angular/material/icon
 
 @angular/material/menu
-
-@ngx-translate/core
-MIT
 
 @angular/material/core
 
